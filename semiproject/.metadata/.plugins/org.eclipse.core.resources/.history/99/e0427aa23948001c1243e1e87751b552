@@ -1,0 +1,7 @@
+package test;
+
+public class Snippet {
+	UserVO user = new UserVO("id66", "pdw66", "¿Âµø∞«");
+			biz.
+}
+

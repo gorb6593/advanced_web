@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\semiclient\.metadata\.plugins\org.eclipse.jdt.core
+1440999322.index
+1875357406.index
